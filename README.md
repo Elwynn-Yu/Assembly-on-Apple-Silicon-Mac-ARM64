@@ -16,17 +16,12 @@ This series aims to enable developers with no exposure to assembly language to r
 
 # **The programming environment**
 
-* Chips
- Apple M1 Max
+* Chips: Apple M1 Max
 
-* Operating system
- macOS 12.6
+* Operating system: macOS 12.6
 
-* Operating system kernel
- arm64-apple-darwin21.6.0
+* Operating system kernel: arm64-apple-darwin21.6.0
 
-* XNU source code version
- xnu-8020.101.4
+* XNU source code version: xnu-8020.101.4
 
-* clang version
- Apple clang version 14.0.0 (clang-1400.0.29.102)
+* clang version: Apple clang version 14.0.0 (clang-1400.0.29.102)
