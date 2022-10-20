@@ -6,9 +6,7 @@ Apple migrated the Mac architecture from intel's AMD64 architecture to ARM AArch
 
 * C Programming language
 * Computer Organization and Architecture Themes and Variations
-
-# **Better Understanding**
-* if you read the book ahead <<Computer Systems A Programmer's Perspective>>
+* if you read the book CS.APP ahead, you can get better understanding
 
 # **The programming environment**
 
