@@ -16,7 +16,7 @@ Apple migrated the Mac architecture from intel's AMD64 architecture to ARM AArch
 
 * Operating system: macOS 12.6
 
-* Operating system kernel: arm64-apple-darwin21.6.0
+* Operating system kernel: Darwin Kernel Version 21.6.0
 
 * XNU source code version: xnu-8020.101.4
 
